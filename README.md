@@ -4,11 +4,11 @@
 > This theme was modified by [This](https://github.com/thep0y/fcitx5-themes-candlelight)
 
 ## Table of contents
-- [Effect](#effect)
+- [Screenshots](#screenshots)
 - [Installation](#installation)
 - [Usage](#usage)
 
-## Effect
+## Screenshots
 ### Mint-X
 ![Example usage](resources/Mint-X.png)
 
