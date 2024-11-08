@@ -1,6 +1,6 @@
 [简体中文](README_zh_CN.md)
 # fcitx5-MintX-theme
-> MintX style theme for fcitx5
+> MintX style theme for fcitx5  
 > This theme was modified by [This](https://github.com/thep0y/fcitx5-themes-candlelight)
 
 ## Table of contents
