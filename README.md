@@ -4,9 +4,23 @@
 > This theme was modified by [This](https://github.com/thep0y/fcitx5-themes-candlelight)
 
 ## Table of contents
-- [Screenshots](#screenshots)
 - [Installation](#installation)
 - [Usage](#usage)
+- [Screenshots](#screenshots)
+
+## Installation
+```shell
+# Clone the repository
+$ git clone https://github.com/gczcn/fcitx5-MintX-theme.git
+$ cd fcitx5-MintX-theme
+
+# Copy all themes (or some of them) to ~/.local/share/fcitx5/themes
+$ mkdir ~/.local/share/fcitx5/themes
+$ cp themes/* ~/.local/share/fcitx5/themes/
+```
+
+## Usage
+Just run `fcitx5-config-qt` then open addons/Classic User Interface and select the theme you want
 
 ## Screenshots
 ### Mint-X
@@ -75,17 +89,3 @@
 
 ### Mint-X-Dark-Teal
 ![Example usage](resources/Mint-X-Dark-Teal.png)
-
-## Installation
-```shell
-# Clone the repository
-$ git clone https://github.com/gczcn/fcitx5-MintX-theme.git
-$ cd fcitx5-MintX-theme
-
-# Copy all themes (or some of them) to ~/.local/share/fcitx5/themes
-$ mkdir ~/.local/share/fcitx5/themes
-$ cp themes/* ~/.local/share/fcitx5/themes/
-```
-
-## Usage
-Just run `fcitx5-config-qt` then open addons/Classic User Interface and select the theme you want

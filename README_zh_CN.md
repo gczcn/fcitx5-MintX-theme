@@ -4,9 +4,23 @@
 > 此主题由[这个主题](https://github.com/thep0y/fcitx5-themes-candlelight)修改而成
 
 ## 目录
-- [效果](#效果)
 - [安装](#安装)
 - [使用](#使用)
+- [效果](#效果)
+
+## 安装
+```shell
+# 克隆仓库
+$ git clone https://github.com/gczcn/fcitx5-MintX-theme.git
+$ cd fcitx5-MintX-theme
+
+# 复制所有主题（或部分主题）到 ~/.local/share/fcitx5/themes
+$ mkdir ~/.local/share/fcitx5/themes
+$ cp themes/* ~/.local/share/fcitx5/themes/
+```
+
+## 使用
+只需在 `fcitx5-config-qt` 中打开 附加组件/addons >> 经典用户界面/Classic User Interface 然后选择需要的主题即可
 
 ## 效果
 ### Mint-X
@@ -76,17 +90,3 @@
 
 ### Mint-X-Dark-Teal
 ![Example usage](resources/Mint-X-Dark-Teal.png)
-
-## 安装
-```shell
-# 克隆仓库
-$ git clone https://github.com/gczcn/fcitx5-MintX-theme.git
-$ cd fcitx5-MintX-theme
-
-# 复制所有主题（或部分主题）到 ~/.local/share/fcitx5/themes
-$ mkdir ~/.local/share/fcitx5/themes
-$ cp themes/* ~/.local/share/fcitx5/themes/
-```
-
-## 使用
-只需在 `fcitx5-config-qt` 中打开 附加组件/addons >> 经典用户界面/Classic User Interface 然后选择需要的主题即可
